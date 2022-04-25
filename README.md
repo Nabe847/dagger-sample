@@ -25,3 +25,4 @@
     $ dagger do hello
     ```
     `hello-world.txt` リポジトリのルート直下に出力される
+    ![image](https://user-images.githubusercontent.com/38312479/165068201-e09c50e3-45a3-4af9-b283-9030303cc52a.png)
